@@ -9,5 +9,4 @@
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nicholasmcenroe/)
 - 🧠 LeetCode [Profile](https://leetcode.com/nsmcenro/)
 
-<h2 align= "center">Check out some repos that I have used below. These resources will definitely help. </h2>
-<h3 align= "center">Check out the Viewing Party Redux Repo to see what I am currently researching! </h3>
+<h2 align= "center">Check out the Viewing Party Redux Repo to see what I am currently researching! </h3>
