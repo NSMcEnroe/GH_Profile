@@ -1,7 +1,6 @@
 <h1 align= "center">👋 Hi, I’m Nick McEnroe!</h1>
-<h3 align= "center">Backend Software Engineer</h3>
+<h3 align= "center">Full Stack Software Engineer</h3>
   
-- 👀 I’m interested in Backend Engineering/ QA Engineering
 - 💻 Main project: [LeetCode Tech Challenges Repo](https://github.com/NSMcEnroe/tech_challenges)
 - 📺 Video of the month: [The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)
 - 📖 Current book: [A Mind for Numbers: How to Excel at Math and Science](https://barbaraoakley.com/books/a-mind-for-numbers/)
